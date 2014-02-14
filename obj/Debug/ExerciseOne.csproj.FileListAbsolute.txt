@@ -1,0 +1,6 @@
+C:\programming\FifthHomeWorkOOP\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\programming\FifthHomeWorkOOP\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\programming\FifthHomeWorkOOP\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\programming\FifthHomeWorkOOP\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\programming\FifthHomeWorkOOP\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\programming\FifthHomeWorkOOP\ExerciseOne\obj\Debug\ExerciseOne.csprojResolveAssemblyReference.cache
